@@ -13,7 +13,7 @@ Before you can run this client, you will need to be running the server side whic
 ![Alt text](image.png)
 
 ## Copy the code client on my repo
-    https://github.com/Sebas024/snake-client
+    https://github.com/xweetx/snake-client
 
 ## Installation
     cd /vagrant or /labber
